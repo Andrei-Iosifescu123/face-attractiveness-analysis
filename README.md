@@ -28,7 +28,7 @@ To get started, clone this repository and install the required Python packages.
 
 ```bash
 git clone https://github.com/Andrei-Iosifescu123/face-attractiveness-analysis.git
-cd face_attractiveness_detection
+cd face-attractiveness-analysis
 ```
 
 ### Install Dependencies
