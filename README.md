@@ -14,7 +14,7 @@ I am not affiliated with attractivenesstest.com in any way. The use of their API
 
 ## Requirements
 ```bash
-opencv-python-headless
+opencv-python
 numpy
 requests
 tqdm
