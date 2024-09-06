@@ -42,3 +42,6 @@ main.py [-h] --input INPUT [--output OUTPUT]
 ```bash
 python3 main.py --input examples/example1.jpg
 ```
+
+### Known Issues
+The server can't evaluate some faces and returns `{"error":"Face detected, but error during age detection 'with_padding'"}`.
