@@ -9,6 +9,9 @@ This project provides a Python script to analyze the attractiveness of individua
 - Uploads individual face images to the Attractiveness Test API for analysis.
 - Draws attractiveness scores directly on the original image.
 
+## Disclaimer
+I am not affiliated with attractivenesstest.com in any way. The use of their API in this project is for educational purposes only. I am not responsible for any issues or consequences that may arise from using their services.
+
 ## Requirements
 ```bash
 opencv-python-headless
