@@ -1,11 +1,9 @@
 import os
-import base64
 import requests
 import uuid
 import json
 import cv2 as cv
 import numpy as np
-from bs4 import BeautifulSoup
 from io import BytesIO
 from yunet import YuNet
 import argparse
