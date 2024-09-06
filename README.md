@@ -17,7 +17,6 @@ I am not affiliated with attractivenesstest.com in any way. The use of their API
 opencv-python-headless
 numpy
 requests
-beautifulsoup4
 tqdm
 ```
 
